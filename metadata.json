@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Mahasiswa Sistem Informasi - Muhammad Jamil Qolbi",
+  "description": "Website portofolio pribadi mahasiswa prodi Sistem Informasi Semester 1 Universitas Komputama Majenang asal Sumatera Utara, menampilkan profil, proyek akademik, daftar mata kuliah, dan formulir kontak profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
